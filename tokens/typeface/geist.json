@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "geist": {
+      "value": "Geist",
+      "type": "fontFamilies",
+      "description": "Download this font - https://vercel.com/font"
+    }
+  },
+  "fontWeights": {
+    "geist-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "geist-200-ultralight": {
+      "value": "UltraLight",
+      "type": "fontWeights"
+    },
+    "geist-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "geist-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "geist-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "geist-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "geist-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "geist-900-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "geist-1000-ultrablack": {
+      "value": "UltraBlack",
+      "type": "fontWeights"
+    }
+  }
+}

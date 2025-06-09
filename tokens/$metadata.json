@@ -1,0 +1,18 @@
+{
+  "tokenSetOrder": [
+    "typeface/dm-serif-text",
+    "typeface/dm-mono",
+    "typeface/dm-sans",
+    "typeface/geist",
+    "typeface/geist-mono",
+    "typeface/inter",
+    "typeface/noto-sans-serif",
+    "typeface/noto-sans-mono",
+    "typeface/noto-sans",
+    "typeface/public-sans",
+    "typeface/satoshi",
+    "typeface/sf-pro",
+    "typeface/sora",
+    "typeface/EMPTY"
+  ]
+}

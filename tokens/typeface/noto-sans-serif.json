@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "noto-serif": {
+      "value": "Noto Serif",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/noto/specimen/Noto+Serif"
+    }
+  },
+  "fontWeights": {
+    "noto-serif-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "noto-serif-200-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights"
+    },
+    "noto-serif-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "noto-serif-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "noto-serif-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "noto-serif-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "noto-serif-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "noto-serif-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    },
+    "noto-serif-900-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  }
+}

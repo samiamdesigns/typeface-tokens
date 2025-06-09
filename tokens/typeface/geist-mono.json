@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "geist-mono": {
+      "value": "Geist Mono",
+      "type": "fontFamilies",
+      "description": "Download this font - https://vercel.com/font"
+    }
+  },
+  "fontWeights": {
+    "geist-mono-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "geist-mono-200-ultralight": {
+      "value": "UltraLight",
+      "type": "fontWeights"
+    },
+    "geist-mono-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "geist-mono-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "geist-mono-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "geist-mono-600-semi-bold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "geist-mono-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "geist-mono-900-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "geist-mono-1000-ultrablack": {
+      "value": "UltraBlack",
+      "type": "fontWeights"
+    }
+  }
+}

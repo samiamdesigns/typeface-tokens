@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "dm-sans": {
+      "value": "DM Sans",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/DM+Sans"
+    }
+  },
+  "fontWeights": {
+    "dm-sans-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "dm-sans-200-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights"
+    },
+    "dm-sans-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "dm-sans-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "dm-sans-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "dm-sans-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "dm-sans-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "dm-sans-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    },
+    "dm-sans-900-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  }
+}

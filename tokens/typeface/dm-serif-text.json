@@ -1,0 +1,19 @@
+{
+  "fontFamilies": {
+    "dm-serif-text": {
+      "value": "DM Serif Text",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/DM+Serif+Text"
+    }
+  },
+  "fontWeights": {
+    "dm-serif-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "dm-serif-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights"
+    }
+  }
+}

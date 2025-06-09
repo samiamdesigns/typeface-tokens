@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "public-sans": {
+      "value": "Public Sans",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fontshare.com/fonts/public-sans"
+    }
+  },
+  "fontWeights": {
+    "public-sans-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "public-sans-200-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights"
+    },
+    "public-sans-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "public-sans-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "public-sans-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "public-sans-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "public-sans-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "public-sans-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    },
+    "public-sans-900-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  }
+}

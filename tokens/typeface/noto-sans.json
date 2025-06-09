@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "noto-sans": {
+      "value": "Noto Sans",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/noto/specimen/Noto+Sans"
+    }
+  },
+  "fontWeights": {
+    "noto-sans-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "noto-sans-200-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights"
+    },
+    "noto-sans-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "noto-sans-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "noto-sans-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "noto-sans-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "noto-sans-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "noto-sans-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    },
+    "noto-sans-900-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  }
+}

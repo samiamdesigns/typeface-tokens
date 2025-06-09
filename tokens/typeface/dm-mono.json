@@ -1,0 +1,23 @@
+{
+  "fontFamilies": {
+    "dm-mono": {
+      "value": "DM Mono",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/DM+Mono"
+    }
+  },
+  "fontWeights": {
+    "dm-mono-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "dm-mono-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "dm-mono-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    }
+  }
+}

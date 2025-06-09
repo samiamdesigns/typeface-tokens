@@ -1,0 +1,31 @@
+{
+  "fontFamilies": {
+    "satoshi": {
+      "type": "fontFamilies",
+      "value": "Satoshi",
+      "description": "Download this font - https://www.fontshare.com/fonts/satoshi"
+    }
+  },
+  "fontWeights": {
+    "satoshi-300-light": {
+      "type": "fontWeights",
+      "value": "Light"
+    },
+    "satoshi-400-regular": {
+      "type": "fontWeights",
+      "value": "Regular"
+    },
+    "satoshi-500-medium": {
+      "type": "fontWeights",
+      "value": "Medium"
+    },
+    "satoshi-700-bold": {
+      "type": "fontWeights",
+      "value": "Bold"
+    },
+    "satoshi-900-black": {
+      "type": "fontWeights",
+      "value": "Black"
+    }
+  }
+}

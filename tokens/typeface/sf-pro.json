@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "sf-pro": {
+      "value": "SF Pro",
+      "type": "fontFamilies",
+      "description": "This is an iOS and Mac specific Font Family. \n\nDownload this font - https://developer.apple.com/fonts/"
+    }
+  },
+  "fontWeights": {
+    "sf-pro-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "sf-pro-200-ultralight": {
+      "value": "Ultralight",
+      "type": "fontWeights"
+    },
+    "sf-pro-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "sf-pro-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "sf-pro-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "sf-pro-600-semibold": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    },
+    "sf-pro-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "sf-pro-800-heavy": {
+      "value": "Heavy",
+      "type": "fontWeights"
+    },
+    "sf-pro-900-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  }
+}

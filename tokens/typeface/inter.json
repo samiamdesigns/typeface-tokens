@@ -1,0 +1,47 @@
+{
+  "fontFamilies": {
+    "inter": {
+      "type": "fontFamilies",
+      "value": "Inter",
+      "description": "Download this font - https://fonts.google.com/specimen/Inter"
+    }
+  },
+  "fontWeights": {
+    "inter-thin": {
+      "type": "fontWeights",
+      "value": "Thin"
+    },
+    "inter-extralight": {
+      "type": "fontWeights",
+      "value": "Extra Light"
+    },
+    "inter-light": {
+      "type": "fontWeights",
+      "value": "Light"
+    },
+    "inter-regular": {
+      "type": "fontWeights",
+      "value": "Regular"
+    },
+    "inter-medium": {
+      "type": "fontWeights",
+      "value": "Medium"
+    },
+    "inter-semibold": {
+      "type": "fontWeights",
+      "value": "Semi Bold"
+    },
+    "inter-bold": {
+      "type": "fontWeights",
+      "value": "Bold"
+    },
+    "inter-extrabold": {
+      "type": "fontWeights",
+      "value": "Extra Bold"
+    },
+    "inter-black": {
+      "type": "fontWeights",
+      "value": "Black"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fontWeights": {
+    "sora-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "sora-200-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights"
+    },
+    "sora-300-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "sora-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "sora-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "sora-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "sora-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    }
+  },
+  "fontFamilies": {
+    "sora": {
+      "value": "Sora",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/Sora"
+    }
+  }
+}
