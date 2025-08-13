@@ -9,39 +9,93 @@
   "fontWeights": {
     "public-sans-100-thin": {
       "value": "Thin",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : normal"
+    },
+    "public-sans-100-thin-italic": {
+      "value": "Thin Italic",
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : italic"
     },
     "public-sans-200-extralight": {
       "value": "ExtraLight",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : normal"
+    },
+    "public-sans-200-extralight-italic": {
+      "value": "ExtraLight Italic",
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : italic"
     },
     "public-sans-300-light": {
       "value": "Light",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "public-sans-300-light-italic": {
+      "value": "Light Italic",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : italic"
     },
     "public-sans-400-regular": {
       "value": "Regular",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "public-sans-400-regular-italic": {
+      "value": "Regular Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
     },
     "public-sans-500-medium": {
       "value": "Medium",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "public-sans-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
     },
     "public-sans-600-semibold": {
       "value": "SemiBold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "public-sans-600-semibold-italic": {
+      "value": "SemiBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
     },
     "public-sans-700-bold": {
       "value": "Bold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "public-sans-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
     },
     "public-sans-800-extrabold": {
       "value": "ExtraBold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
+    },
+    "public-sans-800-extrabold-italic": {
+      "value": "ExtraBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : italic"
     },
     "public-sans-900-black": {
       "value": "Black",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
+    },
+    "public-sans-900-black-italic": {
+      "value": "Black Italic",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : italic"
     }
   }
 }

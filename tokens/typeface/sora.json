@@ -2,31 +2,43 @@
   "fontWeights": {
     "sora-100-thin": {
       "value": "Thin",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : normal"
     },
     "sora-200-extralight": {
       "value": "ExtraLight",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : normal"
     },
     "sora-300-light": {
       "value": "Light",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
     },
     "sora-400-regular": {
       "value": "Regular",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "sora-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
     },
     "sora-600-semibold": {
       "value": "SemiBold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
     },
     "sora-700-bold": {
       "value": "Bold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
     },
     "sora-800-extrabold": {
       "value": "ExtraBold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
     }
   },
   "fontFamilies": {
