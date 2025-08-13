@@ -9,39 +9,48 @@
   "fontWeights": {
     "noto-sans-mono-100-thin": {
       "value": "Thin",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : normal"
     },
     "noto-sans-mono-200-extralight": {
       "value": "ExtraLight",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : normal"
     },
     "noto-sans-mono-300-light": {
       "value": "Light",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
     },
     "noto-sans-mono-400-regular": {
       "value": "Regular",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
     },
     "noto-sans-mono-500-medium": {
       "value": "Medium",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
     },
     "noto-sans-mono-600-semibold": {
       "value": "SemiBold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
     },
     "noto-sans-mono-700-bold": {
       "value": "Bold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
     },
     "noto-sans-mono-800-extrabold": {
       "value": "ExtraBold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
     },
     "noto-sans-mono-900-black": {
       "value": "Black",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
     }
   }
 }
