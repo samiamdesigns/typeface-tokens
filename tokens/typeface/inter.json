@@ -1,47 +1,101 @@
 {
   "fontFamilies": {
     "inter": {
-      "type": "fontFamilies",
       "value": "Inter",
+      "type": "fontFamilies",
       "description": "Download this font - https://fonts.google.com/specimen/Inter"
     }
   },
   "fontWeights": {
-    "inter-thin": {
+    "inter-100-thin": {
+      "value": "Thin",
       "type": "fontWeights",
-      "value": "Thin"
+      "description": "weight : 100\nstyle : normal"
     },
-    "inter-extralight": {
+    "inter-100-thin-italic": {
+      "value": "Thin Italic",
       "type": "fontWeights",
-      "value": "Extra Light"
+      "description": "weight : 100\nstyle : italic"
     },
-    "inter-light": {
+    "inter-200-extralight": {
+      "value": "Extra Light",
       "type": "fontWeights",
-      "value": "Light"
+      "description": "weight : 200\nstyle : normal"
     },
-    "inter-regular": {
+    "inter-200-extralight-italic": {
+      "value": "Extra Light Italic",
       "type": "fontWeights",
-      "value": "Regular"
+      "description": "weight : 200\nstyle : italic"
     },
-    "inter-medium": {
+    "inter-300-light": {
+      "value": "Light",
       "type": "fontWeights",
-      "value": "Medium"
+      "description": "weight : 300\nstyle : normal"
     },
-    "inter-semibold": {
+    "inter-300-light-italic": {
+      "value": "Light Italic",
       "type": "fontWeights",
-      "value": "Semi Bold"
+      "description": "weight : 300\nstyle : italic"
     },
-    "inter-bold": {
+    "inter-400-regular": {
+      "value": "Regular",
       "type": "fontWeights",
-      "value": "Bold"
+      "description": "weight : 400\nstyle : normal"
     },
-    "inter-extrabold": {
+    "inter-400-regular-italic": {
+      "value": "Italic",
       "type": "fontWeights",
-      "value": "Extra Bold"
+      "description": "weight : 400\nstyle : italic"
     },
-    "inter-black": {
+    "inter-500-medium": {
+      "value": "Medium",
       "type": "fontWeights",
-      "value": "Black"
+      "description": "weight : 500\nstyle : normal"
+    },
+    "inter-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
+    },
+    "inter-600-semibold": {
+      "value": "Semi Bold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "inter-600-semibold-italic": {
+      "value": "Semi Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
+    },
+    "inter-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "inter-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
+    },
+    "inter-800-extrabold": {
+      "value": "Extra Bold",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
+    },
+    "inter-800-extrabold-italic": {
+      "value": "Extra Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : italic"
+    },
+    "inter-900-black": {
+      "value": "Black",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
+    },
+    "inter-900-black-italic": {
+      "value": "Black Italic",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : italic"
     }
   }
 }
