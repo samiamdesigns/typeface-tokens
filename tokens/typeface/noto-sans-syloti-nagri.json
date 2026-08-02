@@ -1,0 +1,16 @@
+{
+  "fontFamilies": {
+    "noto-sans-syloti-nagri": {
+      "value": "Noto Sans Syloti Nagri",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/noto/specimen/Noto+Sans+Syloti+Nagri"
+    }
+  },
+  "fontWeights": {
+    "noto-sans-syloti-nagri-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    }
+  }
+}

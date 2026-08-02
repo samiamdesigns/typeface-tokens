@@ -43,7 +43,7 @@
       "description": "weight : 400\nstyle : normal"
     },
     "noto-sans-400-regular-italic": {
-      "value": "Regular Italic",
+      "value": "Italic",
       "type": "fontWeights",
       "description": "weight : 400\nstyle : italic"
     },

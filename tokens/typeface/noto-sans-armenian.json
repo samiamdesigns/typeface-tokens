@@ -1,0 +1,56 @@
+{
+  "fontFamilies": {
+    "noto-sans-armenian": {
+      "value": "Noto Sans Armenian",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/noto/specimen/Noto+Sans+Armenian"
+    }
+  },
+  "fontWeights": {
+    "noto-sans-armenian-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : normal"
+    },
+    "noto-sans-armenian-200-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : normal"
+    },
+    "noto-sans-armenian-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "noto-sans-armenian-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "noto-sans-armenian-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "noto-sans-armenian-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "noto-sans-armenian-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "noto-sans-armenian-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
+    },
+    "noto-sans-armenian-900-black": {
+      "value": "Black",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
+    }
+  }
+}

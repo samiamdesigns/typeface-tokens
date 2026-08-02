@@ -1,0 +1,16 @@
+{
+  "fontFamilies": {
+    "noto-sans-wancho": {
+      "value": "Noto Sans Wancho",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/noto/specimen/Noto+Sans+Wancho"
+    }
+  },
+  "fontWeights": {
+    "noto-sans-wancho-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    }
+  }
+}
