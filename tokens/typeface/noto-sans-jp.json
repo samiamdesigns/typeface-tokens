@@ -1,0 +1,46 @@
+{
+  "fontFamilies": {
+    "noto-sans-jp": {
+      "value": "Noto Sans JP",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/noto/specimen/Noto+Sans+JP"
+    }
+  },
+  "fontWeights": {
+    "noto-sans-jp-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : normal"
+    },
+    "noto-sans-jp-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "noto-sans-jp-350-demilight": {
+      "value": "DemiLight",
+      "type": "fontWeights",
+      "description": "weight : 350\nstyle : normal"
+    },
+    "noto-sans-jp-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "noto-sans-jp-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "noto-sans-jp-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "noto-sans-jp-900-black": {
+      "value": "Black",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+<!-- Font Dumper UI: shows the JSON dump in a textarea with a copy button. -->
+<style>
+  body { font: 12px -apple-system, sans-serif; margin: 0; padding: 12px; }
+  h1 { font-size: 13px; margin: 0 0 8px; }
+  #meta { color: #666; margin-bottom: 8px; }
+  textarea { width: 100%; height: 520px; box-sizing: border-box; font-family: ui-monospace, monospace; font-size: 11px; }
+  button { margin-top: 8px; padding: 6px 12px; cursor: pointer; }
+</style>
+<h1>Figma font dump (Noto + Inter)</h1>
+<div id="meta">Loading…</div>
+<textarea id="out" readonly></textarea>
+<button id="copy">Copy JSON</button>
+<script>
+  onmessage = (e) => {
+    const msg = e.data.pluginMessage;
+    document.getElementById("meta").textContent =
+      msg.familyCount + " families matched. Copy the JSON and paste it back to Claude, or save as figma-fonts.json.";
+    document.getElementById("out").value = JSON.stringify(msg, null, 2);
+  };
+  document.getElementById("copy").onclick = () => {
+    const t = document.getElementById("out");
+    t.select();
+    document.execCommand("copy");
+  };
+</script>
