@@ -1,0 +1,36 @@
+{
+  "fontFamilies": {
+    "signika": {
+      "value": "Signika",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/Signika"
+    }
+  },
+  "fontWeights": {
+    "signika-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "signika-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "signika-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "signika-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "signika-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    }
+  }
+}
