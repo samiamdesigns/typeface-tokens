@@ -1,0 +1,61 @@
+{
+  "fontFamilies": {
+    "red-hat-mono": {
+      "value": "Red Hat Mono",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/Red+Hat+Mono"
+    }
+  },
+  "fontWeights": {
+    "red-hat-mono-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "red-hat-mono-300-light-italic": {
+      "value": "Light Italic",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : italic"
+    },
+    "red-hat-mono-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "red-hat-mono-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
+    },
+    "red-hat-mono-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "red-hat-mono-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
+    },
+    "red-hat-mono-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "red-hat-mono-600-semibold-italic": {
+      "value": "SemiBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
+    },
+    "red-hat-mono-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "red-hat-mono-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
+    }
+  }
+}
