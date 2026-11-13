@@ -1,0 +1,81 @@
+{
+  "fontFamilies": {
+    "figtree": {
+      "value": "Figtree",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/Figtree"
+    }
+  },
+  "fontWeights": {
+    "figtree-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "figtree-300-light-italic": {
+      "value": "Light Italic",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : italic"
+    },
+    "figtree-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "figtree-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
+    },
+    "figtree-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "figtree-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
+    },
+    "figtree-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "figtree-600-semibold-italic": {
+      "value": "SemiBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
+    },
+    "figtree-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "figtree-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
+    },
+    "figtree-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
+    },
+    "figtree-800-extrabold-italic": {
+      "value": "ExtraBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : italic"
+    },
+    "figtree-900-black": {
+      "value": "Black",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
+    },
+    "figtree-900-black-italic": {
+      "value": "Black Italic",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : italic"
+    }
+  }
+}

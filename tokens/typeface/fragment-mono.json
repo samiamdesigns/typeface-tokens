@@ -1,0 +1,21 @@
+{
+  "fontFamilies": {
+    "fragment-mono": {
+      "value": "Fragment Mono",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/Fragment+Mono"
+    }
+  },
+  "fontWeights": {
+    "fragment-mono-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "fragment-mono-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
+    }
+  }
+}

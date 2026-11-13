@@ -1,0 +1,51 @@
+{
+  "fontFamilies": {
+    "instrument-sans": {
+      "value": "Instrument Sans",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/Instrument+Sans"
+    }
+  },
+  "fontWeights": {
+    "instrument-sans-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "instrument-sans-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
+    },
+    "instrument-sans-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "instrument-sans-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
+    },
+    "instrument-sans-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "instrument-sans-600-semibold-italic": {
+      "value": "SemiBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
+    },
+    "instrument-sans-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "instrument-sans-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
+    }
+  }
+}

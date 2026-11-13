@@ -1,0 +1,101 @@
+{
+  "fontFamilies": {
+    "lt-superior": {
+      "value": "LT Superior",
+      "type": "fontFamilies",
+      "description": "Download this font - https://lyonstype.neocities.org/fonts.html"
+    }
+  },
+  "fontWeights": {
+    "lt-superior-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : normal"
+    },
+    "lt-superior-100-thin-italic": {
+      "value": "Thin Italic",
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : italic"
+    },
+    "lt-superior-200-extralight": {
+      "value": "Extra Light",
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : normal"
+    },
+    "lt-superior-200-extralight-italic": {
+      "value": "Extra Light Italic",
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : italic"
+    },
+    "lt-superior-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "lt-superior-300-light-italic": {
+      "value": "Light Italic",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : italic"
+    },
+    "lt-superior-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "lt-superior-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
+    },
+    "lt-superior-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "lt-superior-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
+    },
+    "lt-superior-600-semibold": {
+      "value": "Semi Bold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "lt-superior-600-semibold-italic": {
+      "value": "Semi Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
+    },
+    "lt-superior-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "lt-superior-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
+    },
+    "lt-superior-800-extrabold": {
+      "value": "Extra Bold",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
+    },
+    "lt-superior-800-extrabold-italic": {
+      "value": "Extra Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : italic"
+    },
+    "lt-superior-900-black": {
+      "value": "Black",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
+    },
+    "lt-superior-900-black-italic": {
+      "value": "Black Italic",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : italic"
+    }
+  }
+}
