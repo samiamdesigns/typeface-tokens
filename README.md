@@ -12,3 +12,14 @@ Client-licensed typefaces stay in the client's own folder, not in this repo.
 2. Copy the weight strings from Figma, not from the font files; `tools/figma-font-dumper` reads them.
 3. Add the family to `tokens/$metadata.json`.
 4. Add its Homebrew cask to the `Fonts` section of the `mac-setup` Brewfile, confirming the cask exists with `brew info --cask font-{name}` first.
+   If there is no cask, put the font files and their licence in `fonts/{font-name}/` instead, and add a row to the table below.
+
+## Fonts with no Homebrew cask
+
+These open-licence fonts have no Homebrew cask, so their files are kept here.
+To install one, copy its `.ttf` files into `~/Library/Fonts`.
+
+| Font | Version | Source | Licence |
+|---|---|---|---|
+| Adwaita Sans | 51.0 | [GNOME adwaita-fonts](https://gitlab.gnome.org/GNOME/adwaita-fonts/-/releases/51.0) | `fonts/adwaita-sans/OFL.txt` |
+| LT Superior | 3.000 | [LyonsType](https://lyonstype.neocities.org/fonts.html), listed on [FaceTypes](https://facetypes.xyz/superior/) | `fonts/lt-superior/OFL.txt` |

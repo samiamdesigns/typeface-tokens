@@ -9,7 +9,7 @@
 // Edit FAMILY_PREFIXES to change which families are dumped. Matching is
 // case-insensitive and prefix-based on the family name exactly as Figma reports it.
 
-const FAMILY_PREFIXES = ["Noto", "Inter"];
+const FAMILY_PREFIXES = ["Adwaita", "LT Superior", "Inclusive Sans", "Instrument Sans", "Fragment Mono", "Figtree", "Spline Sans Mono", "Geist", "Inter"];
 
 figma.showUI(__html__, { width: 520, height: 640 });
 

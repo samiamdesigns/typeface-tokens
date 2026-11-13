@@ -1,0 +1,101 @@
+{
+  "fontFamilies": {
+    "adwaita-sans": {
+      "value": "Adwaita Sans",
+      "type": "fontFamilies",
+      "description": "Download this font - https://gitlab.gnome.org/GNOME/adwaita-fonts/-/releases/51.0"
+    }
+  },
+  "fontWeights": {
+    "adwaita-sans-100-thin": {
+      "value": "Thin",
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : normal"
+    },
+    "adwaita-sans-100-thin-italic": {
+      "value": "Thin Italic",
+      "type": "fontWeights",
+      "description": "weight : 100\nstyle : italic"
+    },
+    "adwaita-sans-200-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : normal"
+    },
+    "adwaita-sans-200-extralight-italic": {
+      "value": "ExtraLight Italic",
+      "type": "fontWeights",
+      "description": "weight : 200\nstyle : italic"
+    },
+    "adwaita-sans-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "adwaita-sans-300-light-italic": {
+      "value": "Light Italic",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : italic"
+    },
+    "adwaita-sans-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "adwaita-sans-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
+    },
+    "adwaita-sans-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "adwaita-sans-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
+    },
+    "adwaita-sans-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "adwaita-sans-600-semibold-italic": {
+      "value": "SemiBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
+    },
+    "adwaita-sans-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "adwaita-sans-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
+    },
+    "adwaita-sans-800-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : normal"
+    },
+    "adwaita-sans-800-extrabold-italic": {
+      "value": "ExtraBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 800\nstyle : italic"
+    },
+    "adwaita-sans-900-black": {
+      "value": "Black",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : normal"
+    },
+    "adwaita-sans-900-black-italic": {
+      "value": "Black Italic",
+      "type": "fontWeights",
+      "description": "weight : 900\nstyle : italic"
+    }
+  }
+}

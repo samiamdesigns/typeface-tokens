@@ -1,0 +1,61 @@
+{
+  "fontFamilies": {
+    "spline-sans-mono": {
+      "value": "Spline Sans Mono",
+      "type": "fontFamilies",
+      "description": "Download this font - https://fonts.google.com/specimen/Spline+Sans+Mono"
+    }
+  },
+  "fontWeights": {
+    "spline-sans-mono-300-light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : normal"
+    },
+    "spline-sans-mono-300-light-italic": {
+      "value": "Light Italic",
+      "type": "fontWeights",
+      "description": "weight : 300\nstyle : italic"
+    },
+    "spline-sans-mono-400-regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : normal"
+    },
+    "spline-sans-mono-400-regular-italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "description": "weight : 400\nstyle : italic"
+    },
+    "spline-sans-mono-500-medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : normal"
+    },
+    "spline-sans-mono-500-medium-italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "description": "weight : 500\nstyle : italic"
+    },
+    "spline-sans-mono-600-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : normal"
+    },
+    "spline-sans-mono-600-semibold-italic": {
+      "value": "SemiBold Italic",
+      "type": "fontWeights",
+      "description": "weight : 600\nstyle : italic"
+    },
+    "spline-sans-mono-700-bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : normal"
+    },
+    "spline-sans-mono-700-bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "description": "weight : 700\nstyle : italic"
+    }
+  }
+}
