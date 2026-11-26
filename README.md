@@ -23,3 +23,4 @@ To install one, copy its `.ttf` files into `~/Library/Fonts`.
 |---|---|---|---|
 | Adwaita Sans | 51.0 | [GNOME adwaita-fonts](https://gitlab.gnome.org/GNOME/adwaita-fonts/-/releases/51.0) | `fonts/adwaita-sans/OFL.txt` |
 | LT Superior | 3.000 | [LyonsType](https://lyonstype.neocities.org/fonts.html), listed on [FaceTypes](https://facetypes.xyz/superior/) | `fonts/lt-superior/OFL.txt` |
+| Allo | 1.0.1 | [allo.joshpuckett.me](https://allo.joshpuckett.me/downloads/Allo-1.0.1.zip), source on [GitHub](https://github.com/joshpuckett/allo) | `fonts/allo/OFL.txt` |
